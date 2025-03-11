@@ -37,7 +37,7 @@ export function NavUpgrade({ sx, ...other }: StackProps) {
       <Box
         component="img"
         alt="Minimal dashboard"
-        src="/assets/illustrations/illustration-dashboard.webp"
+        src="assets/illustrations/illustration-dashboard.webp"
         sx={{ width: 200, my: 2 }}
       />
 
